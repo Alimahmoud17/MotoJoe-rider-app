@@ -1,18 +1,35 @@
-name: motojoe_new_app
-description: A clean Flutter project for MotoJoe
+name: riders_food_app
+description: A delivery app for riders.
 
 publish_to: 'none'
 
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.19.0 <3.0.0"
+  sdk: ">=2.20.0 <3.0.0"
+  flutter: ">=3.7.0"
 
 dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+
+  # Firebase
+  firebase_core: ^2.25.0
+  firebase_auth: ^5.2.0
+  firebase_database: ^10.2.0
+  cloud_firestore: ^5.4.0
+
+  # State management
   provider: ^6.1.4
+
+  # خرائط ومواقع
+  google_maps_flutter: ^2.5.0
+
+  # اختيار الصور
+  image_picker: ^0.8.7+5
+
+  # الترجمة والدعم المحلي
   flutter_localizations:
     sdk: flutter
 
@@ -28,3 +45,5 @@ flutter:
     - images/
     - ss/
     - assets/fonts/
+    - web/icons/
+    - web/

@@ -1,0 +1,39 @@
+
+❌ lib/assistantMethods/assistant_methods.dart -  assistant_methods.dart:101:3 - Undefined name 'FirebaseFirestore'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+❌ lib/assistantMethods/get_current_location.dart -  get_current_location.dart:8:10 - The name 'Position' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'Position'. - non_type_as_type_argument
+❌ lib/authentication/login.dart -  login.dart:15:27 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/authentication/register.dart -  register.dart:22:30 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/global/global.dart -  global.dart:6:1 - Undefined class 'SharedPreferences'. Try changing the name to the name of an existing class, or creating a class with the name 'SharedPreferences'. - undefined_class
+❌ lib/main.dart -  main.dart:17:3 - Undefined name 'WidgetsFlutterBinding'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+❌ lib/maps/map_utils.dart -  map_utils.dart:16:15 - The method 'canLaunch' isn't defined for the type 'MapUtils'. Try correcting the name to the name of an existing method, or defining a method named 'canLaunch'. - undefined_method
+✅ lib/models/address.dart - لا توجد أخطاء تركيبية
+❌ lib/models/items.dart -  items.dart:9:3 - Undefined class 'Timestamp'. Try changing the name to the name of an existing class, or creating a class with the name 'Timestamp'. - undefined_class
+❌ lib/models/menus.dart -  menus.dart:8:3 - Undefined class 'Timestamp'. Try changing the name to the name of an existing class, or creating a class with the name 'Timestamp'. - undefined_class
+✅ lib/models/sellers.dart - لا توجد أخطاء تركيبية
+❌ lib/screens/earnings_screen.dart -  earnings_screen.dart:5:30 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/screens/history_screen.dart -  history_screen.dart:10:29 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/screens/home_screen.dart -  home_screen.dart:16:26 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/screens/new_orders_screen.dart -  new_orders_screen.dart:9:31 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/screens/not_yet_delivered_screen.dart -  not_yet_delivered_screen.dart:10:37 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/screens/order_details_screen.dart -  order_details_screen.dart:12:34 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/screens/parcel_delivering_screen.dart -  parcel_delivering_screen.dart:10:38 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/screens/parcel_in_progress_screen.dart -  parcel_in_progress_screen.dart:10:38 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/screens/parcel_picking_screen.dart -  parcel_picking_screen.dart:10:35 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/screens/auth/register_screen.dart -  register_screen.dart:30:30 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/screens/client/client_screen.dart -  client_screen.dart:5:28 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/screens/rider/rider_screen.dart -  rider_screen.dart:3:27 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/screens/restaurant/restaurant_screen.dart -  restaurant_screen.dart:3:32 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/screens/admin/admin_screen.dart -  admin_screen.dart:3:27 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/splash_screen/splash_screen.dart -  splash_screen.dart:11:28 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/widgets/custom_text_field.dart -  custom_text_field.dart:4:31 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/widgets/error_dialog.dart - Analyzing error_dialog.dart...
+❌ lib/widgets/header_widget.dart -  header_widget.dart:7:28 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/widgets/loading_dialog.dart -  loading_dialog.dart:5:29 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/widgets/order_card_design.dart -  order_card_design.dart:8:25 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/widgets/progress_bar.dart -  progress_bar.dart:4:10 - The function 'Container' isn't defined. Try importing the library that defines 'Container', correcting the name to the name of an existing function, or defining a function named 'Container'. - undefined_function
+❌ lib/widgets/shipment_address_design.dart -  shipment_address_design.dart:10:37 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/widgets/simple_app_bar.dart -  simple_app_bar.dart:5:28 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/widgets/status_banner.dart -  status_banner.dart:5:28 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/widgets/user_info.dart -  user_info.dart:6:32 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/restaurant_screen.dart -  restaurant_screen.dart:3:32 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+❌ lib/admin_screen.dart -  admin_screen.dart:4:27 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class

@@ -1,0 +1,11 @@
+
+❌ lib/main.dart -   error - main.dart:1:8 - Target of URI doesn't exist: 'package:flutter/material.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist. - uri_does_not_exist
+❌ lib/authentication/register.dart -   error - register.dart:3:8 - Target of URI doesn't exist: 'package:cloud_firestore/cloud_firestore.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist. - uri_does_not_exist
+❌ lib/authentication/login.dart -   error - login.dart:1:8 - Target of URI doesn't exist: 'package:cloud_firestore/cloud_firestore.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist. - uri_does_not_exist
+❌ lib/screens/home_screen.dart -   error - home_screen.dart:3:8 - Target of URI doesn't exist: 'package:cloud_firestore/cloud_firestore.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist. - uri_does_not_exist
+❌ lib/screens/auth/register_screen.dart -   error - register_screen.dart:1:8 - Target of URI doesn't exist: 'package:flutter/material.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist. - uri_does_not_exist
+❌ lib/models/items.dart -   error - items.dart:1:8 - Target of URI doesn't exist: 'package:cloud_firestore/cloud_firestore.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist. - uri_does_not_exist
+❌ lib/models/menus.dart -   error - menus.dart:1:8 - Target of URI doesn't exist: 'package:cloud_firestore/cloud_firestore.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist. - uri_does_not_exist
+✅ lib/models/address.dart - لا يوجد أخطاء رئيسية
+❌ lib/widgets/custom_text_field.dart -   error - custom_text_field.dart:1:8 - Target of URI doesn't exist: 'package:flutter/material.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist. - uri_does_not_exist
+❌ lib/widgets/order_card_design.dart -   error - order_card_design.dart:1:8 - Target of URI doesn't exist: 'package:cloud_firestore/cloud_firestore.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist. - uri_does_not_exist

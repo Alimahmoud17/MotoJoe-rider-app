@@ -1,0 +1,17 @@
+{
+  "@@locale": "ar",
+  "appTitle": "تطبيق التوصيل",
+  "login": "تسجيل الدخول",
+  "register": "إنشاء حساب",
+  "home": "الرئيسية",
+  "orders": "الطلبات",
+  "profile": "الملف الشخصي",
+  "logout": "تسجيل الخروج",
+  "welcome": "مرحبًا بك",
+  "newOrder": "طلب جديد",
+  "delivered": "تم التوصيل",
+  "notDelivered": "لم يتم التوصيل",
+  "earnings": "الأرباح",
+  "settings": "الإعدادات",
+  "changeLanguage": "تغيير اللغة"
+}

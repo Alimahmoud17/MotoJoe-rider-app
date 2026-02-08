@@ -1,79 +1,26 @@
 {
   "project_info": {
-    "project_number": "38185865524",
-    "project_id": "bring-clone-app",
-    "storage_bucket": "bring-clone-app.appspot.com"
+    "project_number": "438917023934",
+    "project_id": "moto-go-73e53",
+    "storage_bucket": "moto-go-73e53.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:38185865524:android:87b41ffe0351caec081561",
+        "mobilesdk_app_id": "1:438917023934:android:693c6d52e8274068b0f6ef",
         "android_client_info": {
-          "package_name": "com.adnanturgay.ridersapp"
+          "package_name": "com.example.riders_food_app"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "38185865524-la2ce851g9e383kl2nmq0smhtap9p333.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDUZuKYClVTabVTlg1hWpKcEXOvgAla5YM"
+          "current_key": "AIzaSyBneUOmL-UGtnOp-zO6FKRpm52aIW-kxgw"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "38185865524-la2ce851g9e383kl2nmq0smhtap9p333.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "38185865524-v0aploakdohbft428j7fhpqhj2mps6j1.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.sellersapp"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:38185865524:android:6d6aa9fcbf471f26081561",
-        "android_client_info": {
-          "package_name": "com.adnanturgay.sellersapp"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "38185865524-la2ce851g9e383kl2nmq0smhtap9p333.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDUZuKYClVTabVTlg1hWpKcEXOvgAla5YM"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "38185865524-la2ce851g9e383kl2nmq0smhtap9p333.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "38185865524-v0aploakdohbft428j7fhpqhj2mps6j1.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.sellersapp"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }

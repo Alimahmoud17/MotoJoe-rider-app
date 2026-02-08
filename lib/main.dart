@@ -3,7 +3,9 @@ import 'package:get/get.dart';
 import 'global/translations.dart';
 import 'screens/auth/register_screen.dart'; // استدعاء شاشة التسجيل
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
   runApp(const MyApp());
 }
 

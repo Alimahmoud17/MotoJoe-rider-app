@@ -7,7 +7,7 @@ android {
     compileSdkVersion 33
 
     defaultConfig {
-        applicationId "com.example.riders_food_app"
+        applicationId "com.adnanturgay.ridersapp"
         minSdkVersion 21
         targetSdkVersion 33
         versionCode 1
